@@ -4,6 +4,15 @@ This repo contains the code and data of the following paper:
 *Sharan Narasimhan, Pooja Shekar, Suvodip Dey, Maunendra Sankar Desarkar*
 (Proceedings of INLG 2023)
 
+<div style="display: flex; justify-content: center;">
+  <p style="margin: 5px;">
+    <img width="300" src="media/2.png">
+  </p>
+  <p style="margin: 5px;">
+    <img width="300" src="media/1.png">
+  </p>
+</div>
+
 # Requirements
 Pytorch, sklearn, nltk
 
